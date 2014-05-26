@@ -1,0 +1,16 @@
+body {
+	font-family:open sans;
+	font-weight: 400;
+}
+.container {
+	min-height: 400px
+}
+#footer {
+background-color: rgb(45, 45, 45);
+padding: 60px 0;
+}
+h1 {
+font-color:#1b926c;
+font-size: 3em;
+font-style: helvetica;
+}
