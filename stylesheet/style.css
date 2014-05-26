@@ -2,6 +2,9 @@ body {
 	font-family:open sans;
 	font-weight: 400;
 }
+map {
+padding: 40px 0;	
+}
 .container {
 	min-height: 400px
 }
